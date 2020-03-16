@@ -1,3 +1,7 @@
+## 6.0.13
+
+* Fix error invoking `configure` with `onBackgroundMessage` on iOS.
+
 ## 6.0.12
 
 * Replace deprecated `getFlutterEngine` call on Android.
